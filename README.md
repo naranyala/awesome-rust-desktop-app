@@ -337,6 +337,7 @@ Publicly documented desktop/client applications shipping to end users.
 
 | Application | Type | Framework / Stack | Developer |
 |-------------|------|-------------------|-----------|
+| [Glim](https://github.com/NeoPanic/Glim) | File viewer and basic text editor (v0.2.5, MIT) | Rust + GPUI Kit, Swift native previews; macOS only | NeoPanic |
 | [Zed](https://zed.dev/) | Code editor | GPUI (custom) | Zed Industries |
 | [Lapce](https://lapce.dev/) | Code editor | Floem (custom) | Lapce contributors |
 | [Synergy](https://symless.com/synergy) | Mouse/keyboard sharing | Custom Rust native | Symless |
